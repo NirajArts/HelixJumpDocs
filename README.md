@@ -1,4 +1,4 @@
-# Helix Jump Project Documentation
+# Helix Jump Project Documentation for integration
 
 ## Overview
 
