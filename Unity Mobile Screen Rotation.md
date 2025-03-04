@@ -5,7 +5,7 @@
 
 ```csharp
 
-  // Auto Rotate mobile screen to landscape right
+  // Auto Rotate mobile screen to landscape left
   Screen.orientation = ScreenOrientation.LandscapeLeft;
 
 ```
