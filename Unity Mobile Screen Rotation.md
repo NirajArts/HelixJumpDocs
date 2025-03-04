@@ -11,6 +11,9 @@
 ```
 
 
+
+
+
 ## Add the following code in the every single game scene you want to be played in `Portrait Mode`.
 ### Make sure to add it in the `Start()` section of the `GameManager` script related to the game. To keep it trackable.
 
